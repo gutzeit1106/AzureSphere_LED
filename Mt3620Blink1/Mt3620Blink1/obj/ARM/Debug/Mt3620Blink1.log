@@ -1,0 +1,28 @@
+﻿  Azure Sphere Utility version 18.11.3.23758
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Sunday, 20 January 2019 13:56:47 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         8be9bb89-d2c6-4f0d-b413-683182fdf420
+      Image ID:             f745572b-848b-4832-83b3-a873d3cebe5b
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           Mt3620Blink1
+      Built On (UTC):       2019/01/20 13:56:48
+      Built On (Local):     2019/01/20 22:56:48
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 1
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\Users\yuyon\repos\AzureSphere_LED\Mt3620Blink1\Mt3620Blink1\bin\ARM\Debug\Mt3620Blink1.imagepackage 
+  Command completed successfully in 00:00:01.2999854. 
